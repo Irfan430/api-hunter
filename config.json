@@ -1,0 +1,28 @@
+{
+  "examples": {
+    "chatgpt": "https://chat.openai.com",
+    "midjourney": "https://www.midjourney.com",
+    "stablediffusion": "https://stablediffusionweb.com",
+    "dalle": "https://labs.openai.com",
+    "free_apis": [
+      "https://jsonplaceholder.typicode.com",
+      "https://catfact.ninja",
+      "https://api.agify.io",
+      "https://api.genderize.io",
+      "https://api.nationalize.io"
+    ],
+    "image_generators": [
+      "https://www.craiyon.com",
+      "https://deepai.org",
+      "https://hotpot.ai",
+      "https://runwayml.com"
+    ]
+  },
+  "keywords": [
+    "api", "v1", "v2", "v3", "endpoint",
+    "json", "data", "graphql", "rest",
+    "query", "generate", "create",
+    "completion", "chat", "image",
+    "model", "ai", "prompt"
+  ]
+}
